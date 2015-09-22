@@ -7,10 +7,13 @@ sudo dnf install tor<br>
 python tor-switch.py<br>
 echo "this is fun"<br>
 
-#For educational purposes only
 
 It is a simple start, a script for personal use that maybe could be usefull for someone else.
 TODO:<br>
   -Install tor if necessary<br>
-  -integrate as extension in gnome-shell
+  -integrate as extension in gnome-shell<br>
   -Test on other distros than Fedora<br>
+  
+  
+<br><b>For educational purposes only</b><br>
+
